@@ -1,0 +1,24 @@
+.nav-item {
+    text-align: center;
+    text-indent: none;
+    margin-left: 80px;
+}
+
+@media(max-width: 767.98px) {
+    .nav-item {
+        margin-top: 20px;
+    }
+}
+
+.nav-item a {
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    color: rgb(18, 81, 255);
+}
+
+
+.search-navbar {
+    border-radius: 10px;
+}
